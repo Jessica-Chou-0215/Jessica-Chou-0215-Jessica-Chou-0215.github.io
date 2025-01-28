@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Amazing Portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#this-is-a-project",
+    "href": "index.html#this-is-a-project",
+    "title": "My Amazing Portfolio",
+    "section": "This is a project",
+    "text": "This is a project"
+  },
+  {
+    "objectID": "project/project_a/index.html",
+    "href": "project/project_a/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an about me page\n\n\n\n\nJessica Chou"
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "",
+    "text": "Jessica Chou"
+  },
+  {
+    "objectID": "project/index.html",
+    "href": "project/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A\nProject B"
+  },
+  {
+    "objectID": "project/project_b/index.html",
+    "href": "project/project_b/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project B"
+  }
+]
